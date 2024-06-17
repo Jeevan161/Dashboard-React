@@ -1,0 +1,25 @@
+.CharCont
+{
+    display: flex;
+    background: grey;
+    width: 95%;
+    margin: 20px;
+    flex-direction: row;
+    border-radius: 15px;
+    align-items: center;
+    height: 90%;
+    padding-bottom: 30px;
+    justify-content: space-between;
+}
+.right-panel
+{
+    width: 600px;
+    margin: 20px 80px 20px 20px;
+    padding: 20px;
+    background: rgb(148, 141, 141);
+    border-radius: 15px;
+}
+.left-panel
+{
+    width: 40%;
+}

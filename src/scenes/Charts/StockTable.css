@@ -1,0 +1,29 @@
+/* StockTable.css */
+
+.stock-table-container {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px;
+    border-radius:15px ;
+}
+
+.stock-table-container table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.stock-table-container th,
+.stock-table-container td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.stock-table-container tbody tr:hover {
+    cursor: pointer;
+    background-color: #000000;
+}
+
+.stock-table-container tbody .selected {
+    background-color: #667c66; /* Light green color for selected item */
+}

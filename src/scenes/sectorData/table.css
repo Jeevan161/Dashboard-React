@@ -1,0 +1,42 @@
+.divCont
+{
+    display: flex;
+    margin: 0px 20px;
+    width: 90%;
+    height: 230px;
+    border-radius: 10px;
+    flex-wrap: wrap;
+    padding: 5px 0px;
+    flex-direction: column;
+}
+.itemT
+{
+    display: flex;
+    height: 35px;
+    margin-bottom: 3px;
+    margin-right: 3px;
+    text-align: center;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0px 15px;
+    border-radius: 10px;
+    
+}
+.spercentage
+{
+    color: #7ade7f;
+}
+.head
+{
+    width: 100%;
+    margin: 0px 20px;
+}
+.contt
+{
+    margin: 20px;
+    width: 90%;
+    border-radius: 15px;
+    padding-top: 5px;
+    height: 300px;
+}
