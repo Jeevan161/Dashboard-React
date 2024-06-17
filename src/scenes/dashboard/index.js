@@ -16,7 +16,7 @@ const Index = () => {
             </div>
             <div class="div2"> 
                  <SectorsProvider>  
-              <Sector/>
+                    <Sector/>
               </SectorsProvider>
             </div>
             <div class="div3"> 
